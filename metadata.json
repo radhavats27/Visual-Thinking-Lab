@@ -1,0 +1,5 @@
+{
+  "name": "Say What You See!",
+  "description": "An interactive AI-powered game to master the art of visual prompting. Observe a reference image, write a descriptive prompt, and see how well you can recreate the visual with AI.",
+  "requestFramePermissions": []
+}
